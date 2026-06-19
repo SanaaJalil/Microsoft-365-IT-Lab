@@ -15,8 +15,8 @@ why it matters, and screenshots from my live tenant.
 ## 📚 What I'm Learning
 | Skill Area | Topics Covered | Status |
 |---|---|---|
-| Identity & Access | Entra ID, MFA, Conditional Access | 🔄 In Progress |
-| Endpoint Management | Intune, Autopilot, Defender | ⏳ Coming Week 2 |
+| Identity & Access | Entra ID, MFA, Conditional Access | 🔄 Completed |
+| Endpoint Management | Intune, Autopilot, Defender | ⏳Completed Week 2 |
 | Automation | PowerShell, Power Automate, Graph API | ⏳ Coming Week 3 |
 | Security & Compliance | Defender, Purview, DLP | ⏳ Coming Week 4 |
 | Collaboration & Ops | Project delivery, Handoffs | ⏳ Coming Week 4 |
